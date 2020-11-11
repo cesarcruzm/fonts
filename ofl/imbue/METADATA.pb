@@ -26,7 +26,3 @@ axes {
   min_value: 100.0
   max_value: 900.0
 }
-source {
-  repository_url: "https://github.com/Etcetera-Type-Co/Imbue"
-  commit: "8ab0a9962f7490dd5d9436a6876517c7c7cdb3f7"
-}
